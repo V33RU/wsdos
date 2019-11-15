@@ -1,5 +1,5 @@
 # wsdos
-websockets multiple connection requests sends to device to freeze the device
+websockets multiple connection requests sends to device to get freeze device
 
 
 Usage:
