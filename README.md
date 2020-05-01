@@ -14,12 +14,6 @@ python3 wsdos.py <IP Address> <no.of requests>
 
 
 
-<object width="425" height="350">
-  <param name="movie" value="" />
-  <param name="wmode" value="transparent" />
-  <embed src="https://youtu.be/GhhDNFVsQBc"
-         type="application/x-shockwave-flash"
-         wmode="transparent" width="425" height="350" />
-</object>
+![](Screencast_10-29-2019_11_01_19 AM.webm)
 
 [![Example](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/GhhDNFVsQBc)
