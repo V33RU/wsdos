@@ -14,7 +14,7 @@ python3 wsdos.py <IP Address> <no.of requests>
 
 
 
-![Screenshot from 2020-05-01 19-58-48.png](https://youtu.be/GhhDNFVsQBc)
+![](Screenshot from 2020-05-01 19-58-48.png)
 
 
 
