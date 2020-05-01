@@ -1,6 +1,6 @@
 ## wsdos
 
-websockets multiple connection requests sends to device to get freeze device
+websocket communication in IoT devices is common and multiple connection requests sends to device to get freezing the device
 
 
 
