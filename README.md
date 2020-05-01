@@ -15,11 +15,11 @@ python3 wsdos.py <IP Address> <no.of requests>
 
 
 <object width="425" height="350">
-  <param name="movie" value="https://youtu.be/GhhDNFVsQBc" />
+  <param name="movie" value="" />
   <param name="wmode" value="transparent" />
   <embed src="https://youtu.be/GhhDNFVsQBc"
          type="application/x-shockwave-flash"
          wmode="transparent" width="425" height="350" />
 </object>
 
- ![](https://i9.ytimg.com/vi/GhhDNFVsQBc/mq2.jpg?sqp=CPLN4u8F&rs=AOn4CLDzcuQ9n5LJsc6dpRWUs5L35NJMkQ)[]
+[![Example](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/GhhDNFVsQBc)
